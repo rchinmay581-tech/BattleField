@@ -1,0 +1,6 @@
+{
+  "name": "VOXSTRIKE",
+  "description": "Fast-paced 3D voxel arena first-person shooter with slide-hopping physics, multiple weapon classes, and tactical combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
